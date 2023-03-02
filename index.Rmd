@@ -2,14 +2,17 @@
 title: "Darimar Davila Ortiz"
 ---
 
-This is a tutorial for creating a website for free using RMarkdown and Github.
+Hello! My name is Darimar Davila Ortiz and I'm a Master's student at the University of Puerto Rico, Mayaguez campus. I'm part of the Bio-Optical Oceanography Lab and my research focuses on the impact of sargassum in sea grass beds communities.I love cats, traveling, doing yoga and the ocean.
 
-## This is a header for my webpage
+Disciplines: Remote Sensing - GIS - Ecology - Marine Biology
+
+## Research Interests
+
+Remote sensing of seagrass beds and coral reefs, marine ecology, coral reef restoration and conservation, geographic information systems, spatial data analysis, and landscape ecology. 
 
 ```{r, out.width="100%", echo=FALSE}
 knitr::include_graphics("Foto_fondo.JPG")
 ```
 
-This a website template for creating personal webpages for academic sciences to publicly share our code and science.
 
 [Read more about me...](about.html)

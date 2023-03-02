@@ -3,5 +3,3 @@ title: "CV"
 ---
 
 <a href="DarimarDavilaCV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
-
-##Here is my CV
