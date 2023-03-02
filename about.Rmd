@@ -10,9 +10,9 @@ This is a template (and tutorial) for creating your website with R Markdown in m
 
 The official document from RStudio can be found [here](http://rmarkdown.rstudio.com/rmarkdown_websites.html).
 
-## Procedure
+## Education
 
-### Prerequisites
+###Research Interests and Experiences
 
 - Make sure that you have the latest versions of R, RStudio and package rmarkdown. I had problems of encoding because of that. 
 

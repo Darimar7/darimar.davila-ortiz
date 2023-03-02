@@ -1,7 +1,7 @@
 ---
-title: "About me"
+title: "Contact"
 ---
 
 ## Please contact me via any of the following for questions about making a website
 
-travis.courtney@upr.edu
+darimar.davila@upr.edu

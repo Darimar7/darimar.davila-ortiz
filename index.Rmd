@@ -1,5 +1,5 @@
 ---
-title: "RMarkdown Website Tutorial"
+title: "Darimar Davila Ortiz"
 ---
 
 This is a tutorial for creating a website for free using RMarkdown and Github.
@@ -7,7 +7,7 @@ This is a tutorial for creating a website for free using RMarkdown and Github.
 ## This is a header for my webpage
 
 ```{r, out.width="100%", echo=FALSE}
-knitr::include_graphics("GOPR1166.JPG")
+knitr::include_graphics("Foto_fondo.JPG")
 ```
 
 This a website template for creating personal webpages for academic sciences to publicly share our code and science.
