@@ -2,61 +2,96 @@
 title: "About me"
 ---
 
-This tutorial text and website was developed by [Florian Prive](https://privefl.github.io/). There's also additional information for creating GitHub pages directly from [Github](https://pages.github.com/)
+Hello! My name is Darimar Davila Ortiz and I'm a Master's student at the University of Puerto Rico, Mayaguez campus. I'm part of the Bio-Optical Oceanography Lab and my research focuses on the impact of sargassum in sea grass beds communities.I love cats, traveling, doing yoga and the ocean.
 
-# Make your website with R Markdown in minutes (test)
+###Disciplines 
 
-This is a template (and tutorial) for creating your website with R Markdown in minutes.
+Remote Sensing - GIS - Ecology - Marine Biology
 
-The official document from RStudio can be found [here](http://rmarkdown.rstudio.com/rmarkdown_websites.html).
+# Education
 
-## Education
+-M. Sc. in Biological Oceanography					           August 2021 - Present
+Department of Marine Sciences
+University of Puerto Rico, Mayaguez campus
+NCAS-M Fellow
 
-###Research Interests and Experiences
+-B. Sc. in Environmental Sciences					             August 2013 – May 2019
+Department of Natural Sciences
+University of Puerto Rico, Río Piedras campus
 
-- Make sure that you have the latest versions of R, RStudio and package rmarkdown. I had problems of encoding because of that. 
+-2016 Fall Semester – Program Exchange                August – December 2016
+Undergraduate Scholarship in Marine Science
+Duke Marine Lab, Duke University, NC
 
-- Make sure that you have enabled Git in RStudio. More information can be found [there](https://privefl.github.io/advr38book/good-practices.html#git).
+#Skills
 
-- You need a GitHub account.
+-Scientific Diving - Reef Check Eco Diver since 2016
+-Field work experience
+-Identification of fish and coral reef benthic communities from Puerto Rico.
+-Softwares: ArcGIS Pro, ArcGIS Online, SNAP, ENVI, Microsoft Office. Exposed to R, GitHub, HTML, and CSS.
+-Languages: Spanish, English, and Portuguese 
 
-### Make the first version of your website
 
-- Fork this repo (top-right) and **rename it to be 'YOURGITHUB.github.io'** (in Settings of your brand new repo, case sensitive).
+#Research Interests and Experiences
 
-- Get the link from cloning the repo. Use the green button "Clone" and make sure you use SSH, not HTTPS. Then, go to RStudio, create a New Project > Version Control > Git and copy this link. You have cloned your new repo as an R project.
+Remote sensing of seagrass beds and coral reefs, marine ecology, coral reef restoration and conservation, geographic information systems, spatial data analysis, and landscape ecology. 
 
-- Build the website by running `rmarkdown::render_site(encoding = "UTF-8")` or just `Ctrl/Cmd + Shift + B`.
+##Experiences
 
-- Commit and push everything from RStudio.
+- NSF REU Intern 	                           May – July 2017
+Interdisciplinary REU in Hyperspectral Imaging (IDREHSI)
+University of Northern Iowa, IA
+Mentors: Dr. Maureen Clayton and Dr. Bingqing Liang
+Obtained spectral signatures and identified unique characteristics in the spectra of plastic microfibers.
+Compared spectra of microfibers using the Headwall Hyperspectral Camera and the Analytical Spectral Device Backpack Field Spec (ASD).
+Created and presented project proposal and results.
 
-- Go see your new website at https://YOURGITHUB.github.io/index.html.
+-NSF REU Intern 		       						       June – August 2016
+Ocean Sciences Research Experience for Undergraduates 
+California State University, Monterey Bay (CSUMB) – Marine Landscape Ecology Lab
+Mentors: Dr. Corey Garza and Mr. Dan Orr
+Studied the relationship between variations in species diversity and landscape characteristics across scales.  
+Studied rocky shore intertidal community interactions.
+Created Digital Elevation Models (DEMs) to derive raster surfaces and represent landscape characteristics. 
+Created and presented project proposal and results.
 
-### Change the content of your website
 
-- Modify `_site.yml`, `index.Rmd`, `about.Rmd`, `cv.Rmd` and `CV.pdf` with your own content. 
-- Build your website again. At any moment, you can preview your website locally, by rendering your site and viewing any of your local html file in your Web Browser. 
+- Summer Research Field Assistant					    May – June 2014
+Natural Resources Career Tracks Program
+Program for Belize Archaeological Project, Orange Walk District, Belize
+Lead Investigator: Dr. Brokaw
+Re-censused trees in four 1-hectare plots in the Rio Bravo Conservation Area (RBCMA). Measured DBH (diameter at breast height), mapped, tagged, and identified to species all self-supporting, woody stems ≥ 10cm DBH. Recorded recruitments of new stems, mortality of previously recorded stems, and diameters of surviving stems.
+Learned general aspects of field archaeology. Excavated, identified, and analyzed ceramics and lithics of Maya sites.
 
-- Commit and push everything from RStudio.
 
-- Go see your new website with your own content at https://YOURGITHUB.github.io/.
+### Professional Experience
 
-### The blog part
+- Intern						   				                August 2022 – Present
+Puerto Rico Sea Grant, UPRM, Programa de Coral
+Supervisor: Maria Vega
+Created an ArcGIS Dashboard showing response efforts to the Stony Coral Tissue Loss Disease (SCTLD) allowing an interactive way to visualize the data and inform the community..
+Improved SCTLD website using Elementor and WordPress.
 
-For now, the 'Blog' link is giving a 404 page. 
+-Environmental Specialist			                August 2020 – February 2022
+Arcadis Caribe, Guaynabo, Puerto Rico
+Supervisor: Abner Hernandez
+Created an aerial imagery mosaic from Puerto Rico improving the process and speed of results.
+Collaborated to complete hundreds of infrastructural assessments, for the Puerto Rico Department of Housing (PRDOH), enabling repair, reconstruction, and/or relocation of houses after catastrophic events in Puerto Rico.
+Created year-built analysis of structures from Puerto Rico using aerial imagery.
 
-If you want to add a static blog to your webpage, go [there](https://github.com/privefl/jekyll-now-r-template).
 
-## Two examples
+-Geographical Information Systems Intern 				January – May 2019
+Geographic Mapping Technologies, Corp., San Juan, Puerto Rico
+Digital Cartography Internship, University of Puerto Rico
+Supervised by Ingrid Ramos
+Digitized agriculture and hydrology objects of interest in aerial imagery from Bangladesh for Harris Corporation, within a collaborative project.
+Created maps of landslides and flood zone areas in Puerto Rico for an NGO law firm.
 
-You can see for example 
-- [my own website](https://privefl.github.io/),
+-Eco Diver									                    May 2016 – Present
+Reef Check Foundation, Caribbean 
+Supervised by Joel Melendez. 
+Performed yearly surveys of coral reef benthic communities around Puerto Rico.
+Identified key indicator fish species, invertebrates, coral diseases, and substrate.
 
-- [the website of the R user group in Grenoble](https://r-in-grenoble.github.io/).
 
-## Conclusion
-
-As a reminder, all credit goes to the geniuses at RStudio (thanks also to [GitHub pages](https://pages.github.com/)). I just made some minor modifications and made a tuto about how to use all this together.
-
-If anything is false or not clear enough, feel free to contact me or open an issue.
-If it is an issue only related with R Markdown, you'll find a better answer posting [there](https://github.com/rstudio/rmarkdown).
+For more information about me, check out my [CV](https://privefl.github.io/advr38book/good-practices.html#git).

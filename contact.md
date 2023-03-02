@@ -2,6 +2,7 @@
 title: "Contact"
 ---
 
-## Please contact me via any of the following for questions about making a website
+## Please contact me via any of the following 
 
 darimar.davila@upr.edu
+
