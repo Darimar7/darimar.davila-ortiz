@@ -11,7 +11,7 @@ Hello! My name is Darimar Davila Ortiz and I'm a Master's student at the Univers
 Remote sensing of seagrass beds and coral reefs, marine ecology, coral reef restoration and conservation, geographic information systems, spatial data analysis, and landscape ecology. 
 
 ```{r, out.width="100%", echo=FALSE}
-knitr::include_graphics("Foto_fondo.JPG")
+knitr::include_graphics("Foto_fondo.jpg")
 ```
 
 
