@@ -4,7 +4,7 @@ title: "Darimar Davila Ortiz"
 
 Hello! My name is Darimar Davila Ortiz and I'm a Master's student at the University of Puerto Rico, Mayaguez campus. I'm part of the Bio-Optical Oceanography Lab and my research focuses on the impact of sargassum in sea grass beds communities.I love cats, traveling, doing yoga and the ocean.
 
-Disciplines: Remote Sensing - GIS - Ecology - Marine Biology
+- Disciplines: Remote Sensing - GIS - Ecology - Marine Biology
 
 ## Research Interests
 

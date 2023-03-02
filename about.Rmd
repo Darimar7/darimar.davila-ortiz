@@ -5,17 +5,24 @@ title: "Darimar Davila Ortiz"
 # Education
 
 - M. Sc. in Biological Oceanography.
-Department of Marine Sciences
-University of Puerto Rico, Mayaguez campus
-NCAS-M Fellow
 
-- B. Sc. in Environmental Sciences August 2013 – May 2019
-Department of Natural Sciences
-University of Puerto Rico, Río Piedras campus
+     Department of Marine Sciences
 
-- 2016 Fall Semester – Program Exchange August – December 2016
-Undergraduate Scholarship in Marine Science
-Duke Marine Lab, Duke University, NC
+     University of Puerto Rico, Mayaguez campus
+
+     NCAS-M Fellow
+
+- B. Sc. in Environmental Sciences
+
+    Department of Natural Sciences
+
+    University of Puerto Rico, Río Piedras campus
+
+- 2016 Fall Semester – Program Exchange
+
+    Undergraduate Scholarship in Marine Science
+
+    Duke Marine Lab, Duke University, NC
 
 ## Skills
 
@@ -31,59 +38,63 @@ Duke Marine Lab, Duke University, NC
 # Research Experiences
 
 - NSF REU Intern 	                           
-Interdisciplinary REU in Hyperspectral Imaging (IDREHSI)
-University of Northern Iowa, IA
-Mentors: Dr. Maureen Clayton and Dr. Bingqing Liang
-Obtained spectral signatures and identified unique characteristics in the spectra of plastic microfibers.
-Compared spectra of microfibers using the Headwall Hyperspectral Camera and the Analytical Spectral Device Backpack Field Spec (ASD).
-Created and presented project proposal and results.
+
+    Interdisciplinary REU in Hyperspectral Imaging (IDREHSI)
+
+    University of Northern Iowa, IA
+
+    Mentors: Dr. Maureen Clayton and Dr. Bingqing Liang
+
 
 - NSF REU Intern 		       						       
-Ocean Sciences Research Experience for Undergraduates 
-California State University, Monterey Bay (CSUMB) – Marine Landscape Ecology Lab
-Mentors: Dr. Corey Garza and Mr. Dan Orr
-Studied the relationship between variations in species diversity and landscape characteristics across scales.  
-Studied rocky shore intertidal community interactions.
-Created Digital Elevation Models (DEMs) to derive raster surfaces and represent landscape characteristics. 
-Created and presented project proposal and results.
+
+    Ocean Sciences Research Experience for Undergraduates 
+
+    California State University, Monterey Bay (CSUMB) – Marine Landscape Ecology Lab
+
+    Mentors: Dr. Corey Garza and Mr. Dan Orr
 
 
 - Summer Research Field Assistant					   
-Natural Resources Career Tracks Program
-Program for Belize Archaeological Project, Orange Walk District, Belize
-Lead Investigator: Dr. Brokaw
-Re-censused trees in four 1-hectare plots in the Rio Bravo Conservation Area (RBCMA). Measured DBH (diameter at breast height), mapped, tagged, and identified to species all self-supporting, woody stems ≥ 10cm DBH. Recorded recruitments of new stems, mortality of previously recorded stems, and diameters of surviving stems.
-Learned general aspects of field archaeology. Excavated, identified, and analyzed ceramics and lithics of Maya sites.
+
+    Natural Resources Career Tracks Program
+
+    Program for Belize Archaeological Project, Orange Walk District, Belize
+
+    Lead Investigator: Dr. Brokaw
 
 
 # Professional Experience
 
 - Intern						   				               
-Puerto Rico Sea Grant, UPRM, Programa de Coral
-Supervisor: Maria Vega
-Created an ArcGIS Dashboard showing response efforts to the Stony Coral Tissue Loss Disease (SCTLD) allowing an interactive way to visualize the data and inform the community..
-Improved SCTLD website using Elementor and WordPress.
+
+    Puerto Rico Sea Grant, UPRM, Programa de Coral
+
+    Supervisor: Maria Vega
+
 
 - Environmental Specialist			                
-Arcadis Caribe, Guaynabo, Puerto Rico
-Supervisor: Abner Hernandez
-Created an aerial imagery mosaic from Puerto Rico improving the process and speed of results.
-Collaborated to complete hundreds of infrastructural assessments, for the Puerto Rico Department of Housing (PRDOH), enabling repair, reconstruction, and/or relocation of houses after catastrophic events in Puerto Rico.
-Created year-built analysis of structures from Puerto Rico using aerial imagery.
+
+    Arcadis Caribe, Guaynabo, Puerto Rico
+
+    Supervisor: Abner Hernandez
 
 
 - Geographical Information Systems Intern 				
-Geographic Mapping Technologies, Corp., San Juan, Puerto Rico
-Digital Cartography Internship, University of Puerto Rico
-Supervised by Ingrid Ramos
-Digitized agriculture and hydrology objects of interest in aerial imagery from Bangladesh for Harris Corporation, within a collaborative project.
-Created maps of landslides and flood zone areas in Puerto Rico for an NGO law firm.
+
+    Geographic Mapping Technologies, Corp., San Juan, Puerto Rico
+
+    Digital Cartography Internship, University of Puerto Rico
+
+    Supervised by Ingrid Ramos
+
 
 - Eco Diver									                    
-Reef Check Foundation, Caribbean 
-Supervised by Joel Melendez. 
-Performed yearly surveys of coral reef benthic communities around Puerto Rico.
-Identified key indicator fish species, invertebrates, coral diseases, and substrate.
+
+    Reef Check Foundation, Caribbean 
+
+    Supervised by Joel Melendez. 
 
 
-For more information about me, check out my [CV](https://privefl.github.io/advr38book/good-practices.html#git).
+
+For more information about me, check out my [CV](https://darimar7.github.io/darimar.davila-ortiz/cv.html).
